@@ -1,1 +1,1 @@
-# wallet-gen1
+# wallet-gen2
